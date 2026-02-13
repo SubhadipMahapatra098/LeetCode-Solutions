@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-with-at-least-5-students](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
