@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0180-consecutive-numbers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-with-at-least-5-students](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
