@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1407-top-travellers](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1407-top-travellers) |
 | [1729-find-followers-count](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1729-find-followers-count) |
+| [1890-the-latest-login-in-2020](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1890-the-latest-login-in-2020) |
 | [1934-confirmation-rate](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
