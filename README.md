@@ -22,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1407-top-travellers](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1407-top-travellers) |
 | [1729-find-followers-count](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1729-find-followers-count) |
+| [1934-confirmation-rate](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
