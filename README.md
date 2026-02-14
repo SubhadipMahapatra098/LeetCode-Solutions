@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1280-students-and-examinations](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1407-top-travellers](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1407-top-travellers) |
 | [1729-find-followers-count](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
