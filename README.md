@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1407-top-travellers](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1407-top-travellers) |
+| [1587-bank-account-summary-ii](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1587-bank-account-summary-ii) |
 | [1729-find-followers-count](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1729-find-followers-count) |
 | [1873-calculate-special-bonus](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1890-the-latest-login-in-2020) |
