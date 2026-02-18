@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1321-restaurant-growth) |
+| [1341-movie-rating](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1587-bank-account-summary-ii) |
