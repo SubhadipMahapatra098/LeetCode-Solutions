@@ -52,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
