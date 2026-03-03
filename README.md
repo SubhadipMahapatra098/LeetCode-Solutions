@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
