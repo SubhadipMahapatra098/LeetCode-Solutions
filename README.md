@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SubhadipMahapatra098/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
